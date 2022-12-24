@@ -1,6 +1,6 @@
 # Master_Thesis_Project
 
-This repository contains an overview of the work carried out by Sara Nóbrega for her Master Thesis "New numerical approaches to galaxy cluster simulations in non-homogeneous LTB models" at Lisbon University for the degree of M.Sc. in Physics (Specialization in Astrophysics and Cosmology).
+This repository contains some of the work carried out by Sara Nóbrega for her Master Thesis "New numerical approaches to galaxy cluster simulations in non-homogeneous LTB models" at Lisbon University for the degree of M.Sc. in Physics (Specialization in Astrophysics and Cosmology).
 
 ## Pre-Requisites 
 
